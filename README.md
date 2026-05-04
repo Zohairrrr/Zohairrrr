@@ -31,3 +31,4 @@ CS undergrad focused on building complex systems—from raw 16-bit Assembly to A
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=nasm&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,nextjs,react,nodejs,tailwind,postgres,fastapi,numpy,bash,linux,git,vercel&perline=8)](https://skillicons.dev)
